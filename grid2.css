@@ -1,0 +1,32 @@
+.row{
+
+background-color: black;
+text-align: center;
+
+
+}
+
+.col-12{
+
+background-color:rgb(115, 115, 231);
+line-height: 50px;
+
+
+}
+
+.col-8{
+
+height: 30vh;
+line-height: 200px;
+
+    
+}
+
+
+.sidebar{
+
+    height: 50vh;
+    line-height: 200px;
+
+
+}

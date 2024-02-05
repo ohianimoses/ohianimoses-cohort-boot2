@@ -1,0 +1,89 @@
+.bl{
+
+
+background-color: black;
+/* line-height: 100px; */
+height: 20vh;
+
+
+
+
+}
+
+
+.suc{
+
+background-color: dodgerblue;
+/* line-height: 100px; */
+text-align: center;
+font-weight: bold;
+height: 20vh;
+
+}
+
+.inf{
+
+    background-color: deepskyblue;
+    /* line-height: 100px; */
+    text-align: center;
+    font-weight: bold;
+    height: 20vh;
+
+
+
+}
+
+
+
+.bla{
+
+
+    background-color: black;
+    /* line-height: 100px; */
+    text-align: center;
+    font-weight: bold;
+    height: 20vh;
+
+
+}
+
+
+
+
+
+
+.pu{
+
+    background-color: rebeccapurple;
+    /* line-height: 100px; */
+    text-align: center;
+    font-weight: bold;
+    height: 50vh;
+    
+    }
+    
+    .pur{
+    
+        background-color: black;
+        /* line-height: 100px; */
+        text-align: center;
+        font-weight: bold;
+        height: 20vh;
+    
+    
+    
+    }
+    
+    
+    
+    .purp{
+    
+    
+        background-color: rebeccapurple;
+        /* line-height: 100px; */
+        text-align: center;
+        font-weight: bold;
+        height: 50vh;
+    
+    
+    }
